@@ -1,23 +1,5 @@
-#
-# I did not create this list. I pulled the list from the following repo:
-# https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/scripts/block-telemetry.ps1
-# I formatted the list to be used with pfBlockerNG.
-#
-184-86-53-99.deploy.static.akamaitechnologies.com
-a-0001.a-msedge.net
-a-0002.a-msedge.net
-a-0003.a-msedge.net
-a-0004.a-msedge.net
-a-0005.a-msedge.net
-a-0006.a-msedge.net
-a-0007.a-msedge.net
-a-0008.a-msedge.net
-a-0009.a-msedge.net
-a1621.g.akamai.net
 a1856.g2.akamai.net
 a1961.g.akamai.net
-#makes iTunes download button disappear (#43)
-#a248.e.akamai.net
 a978.i6g1.akamai.net
 a.ads1.msn.com
 a.ads2.msads.net
@@ -30,8 +12,6 @@ ads1.msads.net
 ads1.msn.com
 ads.msn.com
 aidps.atdmt.com
-aka-cdn-ns.adtech.de
-a-msedge.net
 any.edge.bing.com
 a.rad.msn.com
 az361816.vo.msecnd.net
@@ -46,7 +26,6 @@ cdn.atdmt.com
 cds26.ams9.msecn.net
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
-# can cause issues with Skype
 c.msn.com
 compatexchange.cloudapp.net
 corpext.msitadfs.glbdns2.microsoft.com
@@ -149,25 +128,15 @@ www-google-analytics.l.google.com
 p.static.ads-twitter.com
 hubspot.net.edge.net
 e9483.a.akamaiedge.net
-
-#www.google-analytics.com
-#padgead2.googlesyndication.com
-#mirror1.malwaredomains.com
-#mirror.cedia.org.ec
 stats.g.doubleclick.net
 stats.l.doubleclick.net
 adservice.google.de
 adservice.google.com
 googleads.g.doubleclick.net
 pagead46.l.doubleclick.net
-#trotz Deaktivierung von hubspot
 hubspot.net.edgekey.net
-# Feedback-Hub
 insiderppe.cloudapp.net
 livetileedge.dsx.mp.microsoft.com
-
-
-# extra
 fe2.update.microsoft.com.akadns.net
 s0.2mdn.net
 statsfe2.update.microsoft.com.akadns.net,
@@ -178,12 +147,7 @@ watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com,
 watson.telemetry.microsoft.com.nsatc.net
 wes.df.telemetry.microsoft.com
-# can cause issues with Skype
 ui.skype.com
-# can cause issues with Skype
 pricelist.skype.com
-# can cause issues with Skype 
 apps.skype.com
 m.hotmail.com
-# can cause issues with Skype
-s.gateway.messenger.live.com
