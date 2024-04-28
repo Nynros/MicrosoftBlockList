@@ -1,3 +1,5 @@
+# Title: WindowsTelemetryDNS
+## ===============================================================
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -14,7 +16,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 #Micosoft Telemetry DNS
-
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
 0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
 0.0.0.0 a.ads1.msn.com
@@ -362,3 +363,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 xblgdvrassets3010.blob.core.windows.net
 0.0.0.0 ztd.dds.microsoft.comhhd
+## ===============================================================
